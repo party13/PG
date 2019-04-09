@@ -1,0 +1,9 @@
+certifi==2019.3.9
+chardet==3.0.4
+Click==7.0
+idna==2.8
+PyQt5==5.11.3
+PyQt5-sip==4.19.15
+pyqt5-tools==5.11.3.1.4
+python-dotenv==0.10.1
+urllib3==1.24.1
